@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morscire&" alt="morscire" /></p>
 
-<script src="https://tryhackme.com/badge/132649"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/MorScire.png" alt="TryHackMe">
 
-<script src="https://www.hackthebox.eu/badge/290841"></script>
+<img src="http://www.hackthebox.eu/badge/image/290841" alt="Hack The Box">
